@@ -13,7 +13,7 @@ $ sudo docker pull scrapinghub/splash
 Start the container:
 
 ```bash
-docker run -p 8050:8050 scrapinghub/splash
+$ docker run -p 8050:8050 scrapinghub/splash
 ```
 
 Install dependencies after configuring your virtualenv:
